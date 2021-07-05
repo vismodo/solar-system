@@ -58,3 +58,12 @@ body {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+.droptext {
+  color:white; 
+  text-decoration:none;
+}
+
+.droptext:hover{
+  color:rgb(224, 224, 224)
+}
