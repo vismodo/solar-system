@@ -68,3 +68,14 @@ body {
 .droptext:hover{
   color:rgb(224, 224, 224)
 }
+
+.navlink {
+  padding-left: 30px; font-size:19px;padding: 7px 30px;
+  color:white; 
+  text-decoration:none;
+  transition: 0.1s ease-in-out;
+}
+
+.navlink:hover{
+  color:rgb(224, 224, 224)
+}
